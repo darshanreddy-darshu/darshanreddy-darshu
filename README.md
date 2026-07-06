@@ -1,18 +1,92 @@
-# 💫 About Me:
-👋 Hi, I'm Darshan Reddy<br><br>💻 Frontend Developer<br>🚀 Learning JavaScript, Three.js & Python<br>🎯 Building modern, responsive web applications<br>🌱 Always learning new technologies
+<!-- HEADER SECTION WITH CYBER-TECH CAPSULE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111522&height=240&section=header&text=%E2%80%B9%20DARSHAN%20REDDY%20%E2%88%A5%20%E2%80%BA&fontSize=38&animation=twinkling&fontColor=A78BFA&stroke=1f2937&strokeWidth=1" width="100%" />
 
+  <br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_darshanreddy__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshureddy.v@gmail.com) 
+  <!-- Interactive Matrix Typing Subtitle -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=550&lines=%E2%96%B8+Executing+Full-Stack+Architectures...;%E2%96%B8+Compiling+Interactive+User+Experiences...;%E2%96%B8+Optimizing+Distributed+Systems..." alt="System Terminal Typing" />
+  </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=darshanreddy-darshu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=darshanreddy-darshu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=darshanreddy-darshu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- Live Status Badges Grid -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Environment-Production-34D399?style=flat-square&logo=render&logoColor=white" />
+    <img src="https://img.shields.io/badge/System_Status-Operational-007ACC?style=flat-square&logo=statuspage&logoColor=white" />
+    <img src="https://img.shields.io/badge/Maintained-Yes-9333EA?style=flat-square" />
+  </p>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=darshanreddy-darshu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- TWO-COLUMN WORKSPACE DETAILS -->
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <!-- LEFT COLUMN: Profile Stats -->
+    <td width="55%" valign="top">
+      <h3>⚡ System Analytics</h3>
+      <p>I focus on constructing robust architectures, microservices, and creative engineering systems.</p>
+      <ul>
+        <li>🚀 <b>Core focus:</b> High-scale distributed Web APIs</li>
+        <li>🛠️ <b>Current stack depth:</b> Advanced TypeScript & Serverless runtimes</li>
+        <li>🔭 <b>Next objective:</b> Real-time low-latency telemetry pipelines</li>
+      </ul>
+      <br/>
+      <!-- Dynamic Profile Views Counter -->
+      <img src="https://komarev.com/normal-counter/?username=darshanreddy-darshu&color=7c3aed&style=flat-square&label=TERMINAL+VISITORS" alt="Visitor Counter" />
+    </td>
+    <!-- RIGHT COLUMN: Interactive Style Isometric Commits Chart (Pre-rendered 3D Look) -->
+    <td width="45%" valign="top" align="center">
+      <h3>🌌 Contribution Topology</h3>
+      <!-- This pulls an isometric 3D perspective vector of your real GitHub contributions -->
+      <img src="https://github-profile-3d-contrib.vercel.app/api?username=darshanreddy-darshu&theme=tokyonight" width="100%" alt="3D Isometric Contributions Chart" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- TECH STACK MATRIX GRID WITH NEON SEPARATORS -->
+## 🛠️ Specialized Technologies Matrix
+┌─────────────────  LANGUAGES  ──────────────────┐
+│  JS  │  TS  │  PYTHON  │  HTML5  │  CSS3   │
+└────────────────────────────────────────────────┘
+┌────────────────  FRAMEWORKS  ──────────────────┐
+│   REACT   │   NEXT.JS   │   NODE.JS   │
+└────────────────────────────────────────────────┘
+┌───────────────  INFRASTRUCTURE  ───────────────┐
+│     DOCKER     │     AWS     │     GIT     │
+└────────────────────────────────────────────────┘
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,docker,aws,git&perline=5&theme=dark" />
+</p>
+
+---
+
+<!-- DEEP METRICS GRAPH LAYOUT -->
+## 📊 Diagnostic Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanreddy-darshu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanreddy-darshu&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanreddy-darshu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="65%" />
+</p>
+
+---
+
+<!-- ADVANCED WAVEFORM GRAPH ACTIVITY OVERVIEW -->
+## 📈 Dynamic Network Activity Waveform
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanreddy-darshu&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117" width="100%" />
+</p>
+
+---
+
+<!-- FOOTER WRAPPER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,15,22,23,24,25,26&height=70&section=footer" width="100%" />
+</div>
